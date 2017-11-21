@@ -1,0 +1,13 @@
+body {
+text-align: center;
+font-family: helvetica;
+}
+
+div {
+  background-image: url("/Users/ItanzaSaraz/Desktop/islxdesign/CodecademyProjects/Broadway/resources/images/the-flatiron-building.png");
+  color: white;
+}
+
+a {
+  color: white;
+}
